@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.prayer-timing {
+  padding: 50px 0;
+}
+.prayer-timing span {
+  display: block;
+}
+.prayer-timing span.prayer {
+  font-size: 1.7rem;
+  font-weight: bold;
+}
+.prayer-timing span.timing {
+  font-size: 1.5rem;
+}
